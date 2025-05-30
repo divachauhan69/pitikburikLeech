@@ -15,4 +15,4 @@ lxml
 requests
 messages
 js2py
-yt-dlp==2024.3.10
+yt-dlp==2025.5.22
