@@ -4,14 +4,12 @@ hachoir
 Pillow
 pyrogram
 tgcrypto
-youtube_dl
+yt-dlp
 hurry.filesize
 python-dotenv
 psutil
 pyprog
 beautifulsoup4
-bs4
 lxml
 requests
-messages
 js2py
